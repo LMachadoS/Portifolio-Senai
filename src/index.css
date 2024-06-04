@@ -1,0 +1,25 @@
+:root {
+  font-family: 'Fira Code', monospace;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+
+  --primary: #004f40;
+  --secondary: #edbb6c;
+  --terceary: #ebebeb;
+  --red: #FF7D29;
+  --soft-white: #ACE6B0;
+  --white: #e0d8bc;
+  --black: #111;
+  --gray: #222222;
+}
+
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
